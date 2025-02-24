@@ -66,20 +66,6 @@ If you don’t have a key, contact **@GoTo_HellxD** on **Telegram** to get one.
 
 ---
 
-## **📌 Example SMS Request**  
-The script formats SMS dynamically before sending:  
-
-```json
-{
-  "mobileNo": "9876543210",
-  "templateId": "313426",
-  "msg": "Your verification code is:\n123456",
-  "merchantId": "1"
-}
-```
-
----
-
 ## **⚠ Disclaimer**  
 
 **⚠️ WARNING:** This tool is for **educational** and **legal** purposes only.  
