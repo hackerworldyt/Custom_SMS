@@ -54,7 +54,6 @@ python3 Custom_SMS.py
 HwOp
 ```
 Upon running the script, you will be prompted to enter your **authentication key**.  
-If you don’t have a key, contact **@GoTo_HellxD** on **Telegram** to get one.  
 
 ---
 
