@@ -28,10 +28,13 @@ Before using the script, ensure that Python and cURL are installed on your syste
 sudo apt install curl -y  
 
 # Install cURL (For Termux)
-pkg install curl -y  
+pkg install curl -y
 
 # Install Python 3 (For Linux)
 sudo apt install python3 -y
+
+Install Python 3 (For Termux)
+pkg install python3 -y  
 
 # Install Cryptography
 pip install cryptography
