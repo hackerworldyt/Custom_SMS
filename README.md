@@ -31,7 +31,10 @@ sudo apt install curl -y
 pkg install curl -y  
 
 # Install Python 3 (For Linux)
-sudo apt install python3 -y  
+sudo apt install python3 -y
+
+# Install Cryptography
+pip install cryptography
 ```
 
 ---
