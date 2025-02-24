@@ -1,4 +1,4 @@
-## **HwBomber - Custom SMS Sender**  
+## **Hw Custom SMS- Custom SMS Sender**  
 
 ### **⚡ Developed by: @GoTo_HellxD**  
 🚀 **Hw Custom SMS** is an advanced **custom SMS sender script** that allows users to send messages to Indian mobile numbers effortlessly. Built with **Python**, this tool ensures efficient messaging with authentication, key verification, and automatic updates.  
