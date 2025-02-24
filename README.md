@@ -7,10 +7,9 @@
 
 ## **📌 Features**  
 
-✅ **Secure Key-Based Access** – Only valid users can access the script.  
+✅ **Secure Key-Based Access** – Only with valid key can access the script.  
 ✅ **Real-Time Update Checking** – Ensures you are always using the latest version.  
 ✅ **Custom SMS Sending** – Send personalized messages with a maximum **30-character limit**.  
-✅ **Formatted Messages** – Automatically formats SMS with a newline (`\n`) for better readability.  
 ✅ **Professional UI** – Includes a well-structured banner and user-friendly interface.  
 
 ---
@@ -51,6 +50,9 @@ python3 Custom_SMS.py
 ```
 
 ### **🔹 Enter Your Key**  
+```Key : 
+HwOp
+```
 Upon running the script, you will be prompted to enter your **authentication key**.  
 If you don’t have a key, contact **@GoTo_HellxD** on **Telegram** to get one.  
 
@@ -61,8 +63,7 @@ If you don’t have a key, contact **@GoTo_HellxD** on **Telegram** to get one.
 1️⃣ **User enters a valid key for authentication.**  
 2️⃣ **The script checks for updates; if available, prompts the user to update.**  
 3️⃣ **User enters a 10-digit Indian phone number.**  
-4️⃣ **User provides a custom text message (max 30 characters).**  
-5️⃣ **The SMS is sent using the integrated API.**  
+4️⃣ **User provides a custom text message (max 30 characters).**   
 
 ---
 
@@ -83,11 +84,10 @@ If you don’t have a key, contact **@GoTo_HellxD** on **Telegram** to get one.
 
 ## **💡 Contribution**  
 
-Want to improve HwBomber?  
+Want to improve Hw Custom SMS?  
 - **Fork the repo**, make your changes, and submit a **pull request**.  
 - If you encounter any **bugs** or have **feature requests**, **open an issue** in the repo.  
 
 ---
 
 🔥 **Developed & Maintained by @GoTo_HellxD** 🚀  
-```
