@@ -33,7 +33,7 @@ pkg install curl -y
 # Install Python 3 (For Linux)
 sudo apt install python3 -y
 
-Install Python 3 (For Termux)
+# Install Python 3 (For Termux)
 pkg install python3 -y  
 
 # Install Cryptography
