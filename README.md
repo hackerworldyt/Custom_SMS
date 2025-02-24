@@ -41,13 +41,13 @@ sudo apt install python3 -y
 
 ### **🔹 Clone the Repository**  
 ```bash
-git clone https://github.com/hackerworldyt/HwBomber.git  
-cd HwBomber  
+git clone https://github.com/hackerworldyt/Hw_Custom_SMS  
+cd Hw_Custom_SMS  
 ```
 
 ### **🔹 Run the Script**  
 ```bash
-python3 HwBomber.py  
+python3 Custom_SMS.py  
 ```
 
 ### **🔹 Enter Your Key**  
