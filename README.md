@@ -1,4 +1,3 @@
-```
 ## **HwBomber - Custom SMS Sender**  
 
 ### **⚡ Developed by: @GoTo_HellxD**  
